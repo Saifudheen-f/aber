@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "330436825403",
+    "project_id": "ecom-3e940",
+    "storage_bucket": "ecom-3e940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330436825403:android:eed570351011f4db35e71e",
+        "android_client_info": {
+          "package_name": "com.example.espoir2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5E-F51aMNN6WP6nTU8FqvfTcP6zKHm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330436825403:android:8ef4d8080aa57cb535e71e",
+        "android_client_info": {
+          "package_name": "com.example.espoir_marketing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5E-F51aMNN6WP6nTU8FqvfTcP6zKHm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330436825403:android:14486d2f614ef1f735e71e",
+        "android_client_info": {
+          "package_name": "com.example.memon_power"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5E-F51aMNN6WP6nTU8FqvfTcP6zKHm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
